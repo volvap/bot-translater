@@ -1,2 +1,2 @@
-# bot-translater
+# Bot-Translater
 ![](telbot.png)
